@@ -1,0 +1,449 @@
+﻿---- EXCEL ----
+[nan
+ " PIMPRI CHINCHWAD EDUCATION TRUST's\n  PIMPRI CHINCHWAD COLLEGE OF ENGINEERING  "
+ 'Record No.: ACAD/R/22' nan np.float64(nan) nan nan np.float64(nan) nan
+ nan np.float64(nan) nan nan np.float64(nan) nan nan np.float64(nan) nan
+ nan np.float64(nan) nan nan np.float64(nan) nan nan np.float64(nan) nan
+ nan np.float64(nan) nan nan np.float64(nan) nan nan np.float64(nan) nan
+ nan np.float64(nan) nan nan np.float64(nan) nan nan np.float64(nan) nan
+ nan np.float64(nan) nan nan np.float64(nan) nan nan np.float64(nan) nan
+ nan np.float64(nan) nan nan nan nan]
+[nan nan 'Revision: 00' nan np.float64(nan) nan nan np.float64(nan) nan
+ nan np.float64(nan) nan nan np.float64(nan) nan nan np.float64(nan) nan
+ nan np.float64(nan) nan nan np.float64(nan) nan nan np.float64(nan) nan
+ nan np.float64(nan) nan nan np.float64(nan) nan nan np.float64(nan) nan
+ nan np.float64(nan) nan nan np.float64(nan) nan nan np.float64(nan) nan
+ nan np.float64(nan) nan nan np.float64(nan) nan nan np.float64(nan) nan
+ nan np.float64(nan) nan nan nan nan]
+[nan nan 'Date: 18/08/2023' nan np.float64(nan) nan nan np.float64(nan)
+ nan nan np.float64(nan) nan nan np.float64(nan) nan nan np.float64(nan)
+ nan nan np.float64(nan) nan nan np.float64(nan) nan nan np.float64(nan)
+ nan nan np.float64(nan) nan nan np.float64(nan) nan nan np.float64(nan)
+ nan nan np.float64(nan) nan nan np.float64(nan) nan nan np.float64(nan)
+ nan nan np.float64(nan) nan nan np.float64(nan) nan nan np.float64(nan)
+ nan nan np.float64(nan) nan nan nan nan]
+['Department : Computer Engineering' 'Academic Year : 2025-26'
+ 'Semester : 1' nan np.float64(nan) nan nan np.float64(nan) nan nan
+ np.float64(nan) nan nan np.float64(nan) nan nan np.float64(nan) nan nan
+ np.float64(nan) nan nan np.float64(nan) nan nan np.float64(nan) nan nan
+ np.float64(nan) nan nan np.float64(nan) nan nan np.float64(nan) nan nan
+ np.float64(nan) nan nan np.float64(nan) nan nan np.float64(nan) nan nan
+ np.float64(nan) nan nan np.float64(nan) nan nan np.float64(nan) nan nan
+ np.float64(nan) nan nan nan nan]
+['Year : BTech' 'Division : A' 'Date : ' nan np.float64(nan) nan nan
+ np.float64(nan) nan nan np.float64(nan) nan nan np.float64(nan) nan nan
+ np.float64(nan) nan nan np.float64(nan) nan nan np.float64(nan) nan nan
+ np.float64(nan) nan nan np.float64(nan) nan nan np.float64(nan) nan nan
+ np.float64(nan) nan nan np.float64(nan) nan nan np.float64(nan) nan nan
+ np.float64(nan) nan nan np.float64(nan) nan nan np.float64(nan) nan nan
+ np.float64(nan) nan nan np.float64(nan) nan nan nan nan]
+['Attendance status report from 07-July-2025 to 06-November-2025' nan nan
+ nan np.float64(nan) nan nan np.float64(nan) nan nan np.float64(nan) nan
+ nan np.float64(nan) nan nan np.float64(nan) nan nan np.float64(nan) nan
+ nan np.float64(nan) nan nan np.float64(nan) nan nan np.float64(nan) nan
+ nan np.float64(nan) nan nan np.float64(nan) nan nan np.float64(nan) nan
+ nan np.float64(nan) nan nan np.float64(nan) nan nan np.float64(nan) nan
+ nan np.float64(nan) nan nan np.float64(nan) nan nan np.float64(nan) nan
+ nan nan nan]
+['Sr.No' 'PRN' 'Name of the Student' 'BCE7418 - CC-\nCP - TH '
+ np.float64(nan) nan 'BCE7419 - CCL-\nCP - PR ' np.float64(nan) nan
+ 'BCE7420 - STQA-\nCP - TH ' np.float64(nan) nan
+ 'BCE7421 - STQAL-\nCP - PR ' np.float64(nan) nan
+ 'BCE7515 - BI-\nEL - TH ' np.float64(nan) nan 'BCE7516 - ADS-\nEL - TH '
+ np.float64(nan) nan 'BCE7518 - CV-\nEL - TH ' np.float64(nan) nan
+ 'BCE7520 - NLP-\nEL - TH ' np.float64(nan) nan
+ 'BCE7521 - PBL-5-\nCP - PR ' np.float64(nan) nan
+ 'BCI7605A - OE-V EWM-\nEL - TH ' np.float64(nan) nan
+ 'BET7605 - ADAS-\nEL - TH ' np.float64(nan) nan
+ 'BME7605B - OE-V IE-\nEL - TH ' np.float64(nan) nan
+ 'BCI7606A - OE-VI 3-D PTC-\nEL - TH ' np.float64(nan) nan
+ 'BME7606A - OE-VI LSS-\nEL - TH ' np.float64(nan) nan
+ 'BCE7613 - APM-\nEL - TH ' np.float64(nan) nan
+ 'HCE7981 - PS-I-\nEL - PR ' np.float64(nan) nan 'HCE7984 - EH-\nEL - PR '
+ np.float64(nan) nan 'HCE7986 - BCAD-\nEL - TH ' np.float64(nan) nan
+ 'Overall TH Att.' 'Overall PR Att.' 'Overall Att.']
+['Total Lecture' nan nan '45' np.float64(nan) nan
+ ' PR - 1 : 15 PR - 2 : 15 PR - 3 : 15 PR - 4 : 15 ' np.float64(nan) nan
+ '45' np.float64(nan) nan
+ ' PR - 1 : 15 PR - 2 : 15 PR - 3 : 15 PR - 4 : 15 ' np.float64(nan) nan
+ '30' np.float64(nan) nan '30' np.float64(nan) nan '30' np.float64(nan)
+ nan '30' np.float64(nan) nan
+ ' PR - 1 : 15 PR - 2 : 15 PR - 3 : 14 PR - 4 : 15 PR - 1 : 15 PR - 2 : 15 PR - 3 : 15 PR - 4 : 15 '
+ np.float64(nan) nan '45' np.float64(nan) nan '45' np.float64(nan) nan
+ '45' np.float64(nan) nan '45' np.float64(nan) nan '45' np.float64(nan)
+ nan '45' np.float64(nan) nan ' ' np.float64(nan) nan ' ' np.float64(nan)
+ nan '45' np.float64(nan) nan '525' '0' '-']
+[nan nan nan 'Pre' np.float64(nan) 'Per' 'Pre' np.float64(nan) 'Per' 'Pre'
+ np.float64(nan) 'Per' 'Pre' np.float64(nan) 'Per' 'Pre' np.float64(nan)
+ 'Per' 'Pre' np.float64(nan) 'Per' 'Pre' np.float64(nan) 'Per' 'Pre'
+ np.float64(nan) 'Per' 'Pre' np.float64(nan) 'Per' 'Pre' np.float64(nan)
+ 'Per' 'Pre' np.float64(nan) 'Per' 'Pre' np.float64(nan) 'Per' 'Pre'
+ np.float64(nan) 'Per' 'Pre' np.float64(nan) 'Per' 'Pre' np.float64(nan)
+ 'Per' 'Pre' np.float64(nan) 'Per' 'Pre' np.float64(nan) 'Per' 'Pre'
+ np.float64(nan) 'Per' '-' '-' '-']
+['1' '122B1B002' 'ADHAV SHUBHAM SANJAY' '40' np.float64(nan) '89%' '13'
+ np.float64(nan) '87%' '24' np.float64(nan) '54%' '14' np.float64(nan)
+ '94%' '24' np.float64(nan) '80%' '-' np.float64(nan) '-' '21'
+ np.float64(nan) '70%' '-' np.float64(nan) '-' '28' np.float64(nan) '94%'
+ '-' np.float64(nan) '-' '-' np.float64(nan) '-' '37' np.float64(nan)
+ '83%' '-' np.float64(nan) '-' '31' np.float64(nan) '69%' '-'
+ np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-'
+ np.float64(nan) '-' ' 73.75 % ' ' 91.67 % ' '77.33%']
+['2' '122B1B003' 'ANUSHA KAPIL AGARWAL' '37' np.float64(nan) '100%' '7'
+ np.float64(nan) '88%' '25' np.float64(nan) '84%' '7' np.float64(nan)
+ '88%' '14' np.float64(nan) '83%' '-' np.float64(nan) '-' '11'
+ np.float64(nan) '74%' '-' np.float64(nan) '-' '15' np.float64(nan) '94%'
+ '24' np.float64(nan) '96%' '-' np.float64(nan) '-' '-' np.float64(nan)
+ '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '13' np.float64(nan)
+ '57%' '6' np.float64(nan) '100%' '-' np.float64(nan) '-' '-'
+ np.float64(nan) '-' ' 84.35 % ' ' 92.11 % ' '85.95%']
+['3' '122B1B004' 'AGRAWAL ADARSH MADHUSUDAN' '44' np.float64(nan) '98%'
+ '15' np.float64(nan) '100%' '29' np.float64(nan) '65%' '14'
+ np.float64(nan) '94%' '26' np.float64(nan) '87%' '-' np.float64(nan) '-'
+ '-' np.float64(nan) '-' '28' np.float64(nan) '94%' '27' np.float64(nan)
+ '90%' '-' np.float64(nan) '-' '42' np.float64(nan) '94%' '39'
+ np.float64(nan) '87%' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-'
+ np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-'
+ np.float64(nan) '-' ' 86.67 % ' ' 93.33 % ' '88.0%']
+['4' '122B1B005' 'MUKUL AGRAWAL' '41' np.float64(nan) '92%' '15'
+ np.float64(nan) '100%' '27' np.float64(nan) '60%' '15' np.float64(nan)
+ '100%' '-' np.float64(nan) '-' '24' np.float64(nan) '80%' '-'
+ np.float64(nan) '-' '25' np.float64(nan) '84%' '26' np.float64(nan) '87%'
+ '-' np.float64(nan) '-' '43' np.float64(nan) '96%' '-' np.float64(nan)
+ '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan)
+ '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan)
+ '-' ' 82.05 % ' ' 93.33 % ' '84.71%']
+['5' '122B1B006' 'AHIRRAO SANKET DEVIDAS' '34' np.float64(nan) '76%' '11'
+ np.float64(nan) '74%' '12' np.float64(nan) '27%' '6' np.float64(nan)
+ '40%' '14' np.float64(nan) '47%' '-' np.float64(nan) '-' '14'
+ np.float64(nan) '47%' '-' np.float64(nan) '-' '18' np.float64(nan) '60%'
+ '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-'
+ '-' np.float64(nan) '-' '-' np.float64(nan) '-' '12' np.float64(nan)
+ '27%' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan)
+ '-' ' 44.1 % ' ' 58.33 % ' '47.45%']
+['6' '122B1B007' 'ALVI ELIZA SAJID' '44' np.float64(nan) '98%' '15'
+ np.float64(nan) '100%' '33' np.float64(nan) '74%' '15' np.float64(nan)
+ '100%' '27' np.float64(nan) '90%' '-' np.float64(nan) '-' '22'
+ np.float64(nan) '74%' '-' np.float64(nan) '-' '26' np.float64(nan) '87%'
+ '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-'
+ '-' np.float64(nan) '-' '-' np.float64(nan) '-' '39' np.float64(nan)
+ '87%' '15' np.float64(nan) '100%' '-' np.float64(nan) '-' '-'
+ np.float64(nan) '-' ' 84.62 % ' ' 94.67 % ' '87.41%']
+['7' '122B1B008' 'AMBOKAR SAHIL SUDHAKAR' '43' np.float64(nan) '96%' '14'
+ np.float64(nan) '94%' '28' np.float64(nan) '63%' '14' np.float64(nan)
+ '94%' '25' np.float64(nan) '84%' '-' np.float64(nan) '-' '25'
+ np.float64(nan) '84%' '-' np.float64(nan) '-' '28' np.float64(nan) '94%'
+ '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-'
+ '-' np.float64(nan) '-' '-' np.float64(nan) '-' '28' np.float64(nan)
+ '63%' '15' np.float64(nan) '100%' '-' np.float64(nan) '-' '-'
+ np.float64(nan) '-' ' 76.41 % ' ' 94.67 % ' '81.48%']
+['8' '122B1B009' 'ANDRE SUJAL BHANUDAS' '43' np.float64(nan) '96%' '14'
+ np.float64(nan) '94%' '32' np.float64(nan) '72%' '12' np.float64(nan)
+ '80%' '27' np.float64(nan) '90%' '-' np.float64(nan) '-' '25'
+ np.float64(nan) '84%' '-' np.float64(nan) '-' '28' np.float64(nan) '94%'
+ '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-'
+ '-' np.float64(nan) '-' '36' np.float64(nan) '80%' '-' np.float64(nan)
+ '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan)
+ '-' ' 83.59 % ' ' 90.0 % ' '85.1%']
+['9' '122B1B010' 'NAKUL ARORA' '43' np.float64(nan) '96%' '14'
+ np.float64(nan) '94%' '27' np.float64(nan) '60%' '14' np.float64(nan)
+ '94%' '24' np.float64(nan) '80%' '-' np.float64(nan) '-' '25'
+ np.float64(nan) '84%' '-' np.float64(nan) '-' '29' np.float64(nan) '97%'
+ '42' np.float64(nan) '94%' '-' np.float64(nan) '-' '-' np.float64(nan)
+ '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '30' np.float64(nan)
+ '67%' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan)
+ '-' ' 79.58 % ' ' 95.0 % ' '82.67%']
+['10' '122B1B011' 'ASHTEKAR SUYOG VITTHAL' '39' np.float64(nan) '87%' '13'
+ np.float64(nan) '87%' '24' np.float64(nan) '54%' '13' np.float64(nan)
+ '87%' '23' np.float64(nan) '77%' '-' np.float64(nan) '-' '22'
+ np.float64(nan) '74%' '-' np.float64(nan) '-' '26' np.float64(nan) '87%'
+ '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-'
+ '-' np.float64(nan) '-' '34' np.float64(nan) '76%' '-' np.float64(nan)
+ '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan)
+ '-' ' 72.82 % ' ' 86.67 % ' '76.08%']
+['11' '122B1B012' 'AUTI PRAFULL PRAKASH' '43' np.float64(nan) '96%' '13'
+ np.float64(nan) '87%' '31' np.float64(nan) '69%' '15' np.float64(nan)
+ '100%' '25' np.float64(nan) '84%' '-' np.float64(nan) '-' '27'
+ np.float64(nan) '90%' '-' np.float64(nan) '-' '28' np.float64(nan) '94%'
+ '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-'
+ '-' np.float64(nan) '-' '35' np.float64(nan) '78%' '-' np.float64(nan)
+ '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan)
+ '-' ' 82.56 % ' ' 93.33 % ' '85.1%']
+['12' '122B1B013' 'BABAR OM PRAKASH' '42' np.float64(nan) '94%' '14'
+ np.float64(nan) '94%' '26' np.float64(nan) '58%' '15' np.float64(nan)
+ '100%' '-' np.float64(nan) '-' '27' np.float64(nan) '90%' '-'
+ np.float64(nan) '-' '30' np.float64(nan) '100%' '28' np.float64(nan)
+ '94%' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan)
+ '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '41' np.float64(nan)
+ '92%' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan)
+ '-' ' 85.13 % ' ' 95.0 % ' '87.45%']
+['13' '122B1B014' 'BADLANI TUSHAR SUNILKUMAR' '42' np.float64(nan) '94%'
+ '14' np.float64(nan) '94%' '32' np.float64(nan) '72%' '14'
+ np.float64(nan) '94%' '27' np.float64(nan) '90%' '-' np.float64(nan) '-'
+ '27' np.float64(nan) '90%' '-' np.float64(nan) '-' '28' np.float64(nan)
+ '94%' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan)
+ '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '33' np.float64(nan)
+ '74%' '15' np.float64(nan) '100%' '-' np.float64(nan) '-' '-'
+ np.float64(nan) '-' ' 82.56 % ' ' 94.67 % ' '85.93%']
+['14' '122B1B015' 'BAGADI KARTIK VILAS' '37' np.float64(nan) '83%' '14'
+ np.float64(nan) '94%' '26' np.float64(nan) '58%' '15' np.float64(nan)
+ '100%' '24' np.float64(nan) '80%' '-' np.float64(nan) '-' '25'
+ np.float64(nan) '84%' '-' np.float64(nan) '-' '27' np.float64(nan) '90%'
+ '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-'
+ '-' np.float64(nan) '-' '34' np.float64(nan) '76%' '-' np.float64(nan)
+ '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan)
+ '-' ' 74.87 % ' ' 93.33 % ' '79.22%']
+['15' '122B1B016' 'BAGAL MRUNAL RAMESH' '42' np.float64(nan) '94%' '14'
+ np.float64(nan) '94%' '29' np.float64(nan) '65%' '15' np.float64(nan)
+ '100%' '-' np.float64(nan) '-' '26' np.float64(nan) '87%' '24'
+ np.float64(nan) '80%' '-' np.float64(nan) '-' '27' np.float64(nan) '90%'
+ '40' np.float64(nan) '89%' '-' np.float64(nan) '-' '-' np.float64(nan)
+ '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '34' np.float64(nan)
+ '76%' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan)
+ '-' ' 81.25 % ' ' 93.33 % ' '83.67%']
+['16' '122B1B017' 'BHAVYA BAHUGUNA' '40' np.float64(nan) '89%' '14'
+ np.float64(nan) '94%' '28' np.float64(nan) '63%' '15' np.float64(nan)
+ '100%' '23' np.float64(nan) '77%' '-' np.float64(nan) '-' '21'
+ np.float64(nan) '70%' '-' np.float64(nan) '-' '28' np.float64(nan) '94%'
+ '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-'
+ '-' np.float64(nan) '-' '-' np.float64(nan) '-' '27' np.float64(nan)
+ '60%' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan)
+ '-' ' 71.28 % ' ' 95.0 % ' '76.86%']
+['17' '122B1B018' 'BALLAL SUDHARMA SUNIL' '41' np.float64(nan) '92%' '14'
+ np.float64(nan) '94%' '28' np.float64(nan) '63%' '15' np.float64(nan)
+ '100%' '25' np.float64(nan) '84%' '-' np.float64(nan) '-' '27'
+ np.float64(nan) '90%' '-' np.float64(nan) '-' '29' np.float64(nan) '97%'
+ '44' np.float64(nan) '98%' '-' np.float64(nan) '-' '-' np.float64(nan)
+ '-' '-' np.float64(nan) '-' '33' np.float64(nan) '74%' '-'
+ np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-'
+ np.float64(nan) '-' ' 82.5 % ' ' 96.67 % ' '85.33%']
+['18' '122B1B019' 'BANDEWAR ATHARV SANTOSH' '41' np.float64(nan) '92%'
+ '14' np.float64(nan) '94%' '23' np.float64(nan) '52%' '14'
+ np.float64(nan) '94%' '23' np.float64(nan) '77%' '-' np.float64(nan) '-'
+ '23' np.float64(nan) '77%' '-' np.float64(nan) '-' '27' np.float64(nan)
+ '90%' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '36'
+ np.float64(nan) '80%' '-' np.float64(nan) '-' '33' np.float64(nan) '74%'
+ '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-'
+ '-' np.float64(nan) '-' ' 74.58 % ' ' 91.67 % ' '78.0%']
+['19' '122B1B020' 'BANKEWAR VEDANT SUNIL' '40' np.float64(nan) '89%' '13'
+ np.float64(nan) '87%' '23' np.float64(nan) '52%' '14' np.float64(nan)
+ '94%' '20' np.float64(nan) '67%' '-' np.float64(nan) '-' '22'
+ np.float64(nan) '74%' '-' np.float64(nan) '-' '26' np.float64(nan) '87%'
+ '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-'
+ '-' np.float64(nan) '-' '-' np.float64(nan) '-' '19' np.float64(nan)
+ '43%' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan)
+ '-' ' 63.59 % ' ' 88.33 % ' '69.41%']
+['20' '122B1B022' 'GARGI BARVE' '43' np.float64(nan) '96%' '15'
+ np.float64(nan) '100%' '29' np.float64(nan) '65%' '15' np.float64(nan)
+ '100%' '26' np.float64(nan) '87%' '-' np.float64(nan) '-' '-'
+ np.float64(nan) '-' '27' np.float64(nan) '90%' '29' np.float64(nan) '97%'
+ '-' np.float64(nan) '-' '-' np.float64(nan) '-' '40' np.float64(nan)
+ '89%' '-' np.float64(nan) '-' '37' np.float64(nan) '83%' '-'
+ np.float64(nan) '-' '15' np.float64(nan) '100%' '-' np.float64(nan) '-'
+ '-' np.float64(nan) '-' ' 84.17 % ' ' 98.67 % ' '87.62%']
+['21' '122B1B023' 'BHADALE SWARNIM SAMEER' '40' np.float64(nan) '89%' '15'
+ np.float64(nan) '100%' '25' np.float64(nan) '56%' '14' np.float64(nan)
+ '94%' '24' np.float64(nan) '80%' '-' np.float64(nan) '-' '29'
+ np.float64(nan) '97%' '-' np.float64(nan) '-' '27' np.float64(nan) '90%'
+ '-' np.float64(nan) '-' '42' np.float64(nan) '94%' '-' np.float64(nan)
+ '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan)
+ '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan)
+ '-' ' 82.05 % ' ' 93.33 % ' '84.71%']
+['22' '122B1B024' 'BHAGADE HARSHAL SANTOSH' '41' np.float64(nan) '92%'
+ '15' np.float64(nan) '100%' '26' np.float64(nan) '58%' '15'
+ np.float64(nan) '100%' '25' np.float64(nan) '84%' '-' np.float64(nan) '-'
+ '29' np.float64(nan) '97%' '-' np.float64(nan) '-' '29' np.float64(nan)
+ '97%' '43' np.float64(nan) '96%' '-' np.float64(nan) '-' '-'
+ np.float64(nan) '-' '-' np.float64(nan) '-' '35' np.float64(nan) '78%'
+ '-' np.float64(nan) '-' '15' np.float64(nan) '100%' '-' np.float64(nan)
+ '-' '-' np.float64(nan) '-' ' 82.92 % ' ' 98.67 % ' '86.67%']
+['23' '122B1B025' 'NISHANT BHAKAR' '38' np.float64(nan) '85%' '15'
+ np.float64(nan) '100%' '25' np.float64(nan) '56%' '13' np.float64(nan)
+ '87%' '26' np.float64(nan) '87%' '-' np.float64(nan) '-' '26'
+ np.float64(nan) '87%' '-' np.float64(nan) '-' '30' np.float64(nan) '100%'
+ '-' np.float64(nan) '-' '-' np.float64(nan) '-' '34' np.float64(nan)
+ '76%' '-' np.float64(nan) '-' '37' np.float64(nan) '83%' '-'
+ np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-'
+ np.float64(nan) '-' ' 77.5 % ' ' 96.67 % ' '81.33%']
+['24' '122B1B026' 'BHAMARE NEHUL CHANDRAKANT' '41' np.float64(nan) '92%'
+ '15' np.float64(nan) '100%' '25' np.float64(nan) '56%' '15'
+ np.float64(nan) '100%' '23' np.float64(nan) '77%' '-' np.float64(nan) '-'
+ '27' np.float64(nan) '90%' '-' np.float64(nan) '-' '28' np.float64(nan)
+ '94%' '40' np.float64(nan) '89%' '-' np.float64(nan) '-' '-'
+ np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '28'
+ np.float64(nan) '63%' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-'
+ np.float64(nan) '-' ' 76.67 % ' ' 96.67 % ' '80.67%']
+['25' '122B1B027' 'BHANDARE SHREYASH ROHIDAS' '38' np.float64(nan) '85%'
+ '15' np.float64(nan) '100%' '19' np.float64(nan) '43%' '12'
+ np.float64(nan) '80%' '19' np.float64(nan) '64%' '-' np.float64(nan) '-'
+ '23' np.float64(nan) '77%' '-' np.float64(nan) '-' '23' np.float64(nan)
+ '77%' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan)
+ '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '25' np.float64(nan)
+ '56%' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan)
+ '-' ' 63.59 % ' ' 83.33 % ' '68.24%']
+['26' '122B1B028' 'MANDIP BHATTARAI' '39' np.float64(nan) '87%' '15'
+ np.float64(nan) '100%' '33' np.float64(nan) '74%' '14' np.float64(nan)
+ '94%' '27' np.float64(nan) '90%' '-' np.float64(nan) '-' '27'
+ np.float64(nan) '90%' '-' np.float64(nan) '-' '29' np.float64(nan) '97%'
+ '-' np.float64(nan) '-' '-' np.float64(nan) '-' '39' np.float64(nan)
+ '87%' '-' np.float64(nan) '-' '35' np.float64(nan) '78%' '-'
+ np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-'
+ np.float64(nan) '-' ' 83.33 % ' ' 96.67 % ' '86.0%']
+['27' '122B1B029' 'BHAVSAR SNEHA SUNIL' '38' np.float64(nan) '85%' '15'
+ np.float64(nan) '100%' '29' np.float64(nan) '65%' '15' np.float64(nan)
+ '100%' '25' np.float64(nan) '84%' '-' np.float64(nan) '-' '26'
+ np.float64(nan) '87%' '-' np.float64(nan) '-' '26' np.float64(nan) '87%'
+ '42' np.float64(nan) '94%' '-' np.float64(nan) '-' '-' np.float64(nan)
+ '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '32' np.float64(nan)
+ '72%' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan)
+ '-' ' 80.0 % ' ' 93.33 % ' '82.67%']
+['28' '122B1B030' 'BHOR ADITYA SANJEEV' '35' np.float64(nan) '78%' '13'
+ np.float64(nan) '87%' '21' np.float64(nan) '47%' '11' np.float64(nan)
+ '74%' '22' np.float64(nan) '74%' '-' np.float64(nan) '-' '-'
+ np.float64(nan) '-' '24' np.float64(nan) '80%' '24' np.float64(nan) '80%'
+ '37' np.float64(nan) '83%' '-' np.float64(nan) '-' '-' np.float64(nan)
+ '-' '39' np.float64(nan) '87%' '-' np.float64(nan) '-' '-'
+ np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-'
+ np.float64(nan) '-' ' 74.17 % ' ' 80.0 % ' '75.33%']
+['29' '122B1B031' 'SAURAV BHORADE' '37' np.float64(nan) '83%' '15'
+ np.float64(nan) '100%' '23' np.float64(nan) '52%' '15' np.float64(nan)
+ '100%' '20' np.float64(nan) '67%' '-' np.float64(nan) '-' '-'
+ np.float64(nan) '-' '20' np.float64(nan) '67%' '22' np.float64(nan) '74%'
+ '-' np.float64(nan) '-' '-' np.float64(nan) '-' '26' np.float64(nan)
+ '58%' '33' np.float64(nan) '74%' '-' np.float64(nan) '-' '-'
+ np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-'
+ np.float64(nan) '-' ' 66.25 % ' ' 86.67 % ' '70.33%']
+['30' '122B1B032' 'BHORE ATHARV SANJAY' '36' np.float64(nan) '80%' '15'
+ np.float64(nan) '100%' '28' np.float64(nan) '63%' '15' np.float64(nan)
+ '100%' '22' np.float64(nan) '74%' '-' np.float64(nan) '-' '27'
+ np.float64(nan) '90%' '-' np.float64(nan) '-' '29' np.float64(nan) '97%'
+ '39' np.float64(nan) '87%' '-' np.float64(nan) '-' '-' np.float64(nan)
+ '-' '-' np.float64(nan) '-' '35' np.float64(nan) '78%' '-'
+ np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-'
+ np.float64(nan) '-' ' 77.92 % ' ' 98.33 % ' '82.0%']
+['31' '122B1B033' 'BHORE ATHARVA SANDIP' '40' np.float64(nan) '89%' '15'
+ np.float64(nan) '100%' '27' np.float64(nan) '60%' '15' np.float64(nan)
+ '100%' '25' np.float64(nan) '84%' '-' np.float64(nan) '-' '27'
+ np.float64(nan) '90%' '-' np.float64(nan) '-' '29' np.float64(nan) '97%'
+ '42' np.float64(nan) '94%' '-' np.float64(nan) '-' '-' np.float64(nan)
+ '-' '-' np.float64(nan) '-' '36' np.float64(nan) '80%' '-'
+ np.float64(nan) '-' '15' np.float64(nan) '100%' '-' np.float64(nan) '-'
+ '-' np.float64(nan) '-' ' 82.08 % ' ' 98.67 % ' '86.03%']
+['32' '122B1B034' 'BHOSALE ANIKET AVINASH' '41' np.float64(nan) '92%' '15'
+ np.float64(nan) '100%' '29' np.float64(nan) '65%' '15' np.float64(nan)
+ '100%' '-' np.float64(nan) '-' '22' np.float64(nan) '74%' '-'
+ np.float64(nan) '-' '23' np.float64(nan) '77%' '28' np.float64(nan) '94%'
+ '-' np.float64(nan) '-' '43' np.float64(nan) '96%' '-' np.float64(nan)
+ '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan)
+ '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan)
+ '-' ' 81.03 % ' ' 96.67 % ' '84.71%']
+['33' '122B1B035' 'BHOSALE INDRAJEET KIRAN' '41' np.float64(nan) '92%'
+ '15' np.float64(nan) '100%' '26' np.float64(nan) '58%' '14'
+ np.float64(nan) '94%' '26' np.float64(nan) '87%' '-' np.float64(nan) '-'
+ '28' np.float64(nan) '94%' '-' np.float64(nan) '-' '28' np.float64(nan)
+ '94%' '43' np.float64(nan) '96%' '-' np.float64(nan) '-' '-'
+ np.float64(nan) '-' '-' np.float64(nan) '-' '35' np.float64(nan) '78%'
+ '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-'
+ '-' np.float64(nan) '-' ' 82.92 % ' ' 95.0 % ' '85.33%']
+['34' '122B1B036' 'BHOSALE SANIYA SUBHASH' '42' np.float64(nan) '94%' '15'
+ np.float64(nan) '100%' '27' np.float64(nan) '60%' '13' np.float64(nan)
+ '87%' '-' np.float64(nan) '-' '25' np.float64(nan) '84%' '25'
+ np.float64(nan) '84%' '-' np.float64(nan) '-' '25' np.float64(nan) '84%'
+ '-' np.float64(nan) '-' '-' np.float64(nan) '-' '35' np.float64(nan)
+ '78%' '-' np.float64(nan) '-' '34' np.float64(nan) '76%' '-'
+ np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-'
+ np.float64(nan) '-' ' 78.33 % ' ' 88.33 % ' '80.33%']
+['35' '122B1B037' 'BHUTKAR PRATHAMESH RAJENDRA' '41' np.float64(nan) '92%'
+ '15' np.float64(nan) '100%' '27' np.float64(nan) '60%' '15'
+ np.float64(nan) '100%' '23' np.float64(nan) '77%' '-' np.float64(nan) '-'
+ '26' np.float64(nan) '87%' '-' np.float64(nan) '-' '29' np.float64(nan)
+ '97%' '39' np.float64(nan) '87%' '-' np.float64(nan) '-' '-'
+ np.float64(nan) '-' '-' np.float64(nan) '-' '31' np.float64(nan) '69%'
+ '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-'
+ '-' np.float64(nan) '-' ' 77.92 % ' ' 98.33 % ' '82.0%']
+['36' '122B1B041' 'BORLE DHRUV ABHAY' '37' np.float64(nan) '83%' '13'
+ np.float64(nan) '87%' '17' np.float64(nan) '38%' '12' np.float64(nan)
+ '80%' '21' np.float64(nan) '70%' '-' np.float64(nan) '-' '-'
+ np.float64(nan) '-' '20' np.float64(nan) '67%' '22' np.float64(nan) '74%'
+ '-' np.float64(nan) '-' '-' np.float64(nan) '-' '28' np.float64(nan)
+ '63%' '34' np.float64(nan) '76%' '-' np.float64(nan) '-' '-'
+ np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-'
+ np.float64(nan) '-' ' 65.42 % ' ' 78.33 % ' '68.0%']
+['37' '122B1B042' 'ABHISHEK PANKAJ CHAUDHARI' '37' np.float64(nan) '83%'
+ '15' np.float64(nan) '100%' '22' np.float64(nan) '49%' '15'
+ np.float64(nan) '100%' '22' np.float64(nan) '74%' '-' np.float64(nan) '-'
+ '-' np.float64(nan) '-' '24' np.float64(nan) '80%' '25' np.float64(nan)
+ '84%' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '33'
+ np.float64(nan) '74%' '34' np.float64(nan) '76%' '-' np.float64(nan) '-'
+ '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-'
+ '-' np.float64(nan) '-' ' 71.67 % ' ' 91.67 % ' '75.67%']
+['38' '122B1B043' 'CHAUDHARY CHAITRALI PRAVIN' '40' np.float64(nan) '89%'
+ '15' np.float64(nan) '100%' '27' np.float64(nan) '60%' '14'
+ np.float64(nan) '94%' '27' np.float64(nan) '90%' '-' np.float64(nan) '-'
+ '-' np.float64(nan) '-' '28' np.float64(nan) '94%' '29' np.float64(nan)
+ '97%' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '37'
+ np.float64(nan) '83%' '42' np.float64(nan) '94%' '-' np.float64(nan) '-'
+ '-' np.float64(nan) '-' '15' np.float64(nan) '100%' '-' np.float64(nan)
+ '-' '-' np.float64(nan) '-' ' 83.75 % ' ' 97.33 % ' '86.98%']
+['39' '122B1B044' 'CHAUDHARY HARSHWARDHAN SHANKAR' '37' np.float64(nan)
+ '83%' '13' np.float64(nan) '87%' '20' np.float64(nan) '45%' '15'
+ np.float64(nan) '100%' '20' np.float64(nan) '67%' '-' np.float64(nan) '-'
+ '24' np.float64(nan) '80%' '-' np.float64(nan) '-' '27' np.float64(nan)
+ '90%' '-' np.float64(nan) '-' '41' np.float64(nan) '92%' '-'
+ np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-'
+ np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-'
+ np.float64(nan) '-' ' 72.82 % ' ' 91.67 % ' '77.25%']
+['40' '122B1B045' 'RANJEET NATH CHAUDHARY' '42' np.float64(nan) '94%' '15'
+ np.float64(nan) '100%' '34' np.float64(nan) '76%' '13' np.float64(nan)
+ '87%' '28' np.float64(nan) '94%' '-' np.float64(nan) '-' '27'
+ np.float64(nan) '90%' '-' np.float64(nan) '-' '28' np.float64(nan) '97%'
+ '-' np.float64(nan) '-' '-' np.float64(nan) '-' '38' np.float64(nan)
+ '85%' '-' np.float64(nan) '-' '37' np.float64(nan) '83%' '-'
+ np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-'
+ np.float64(nan) '-' ' 85.83 % ' ' 94.92 % ' '87.63%']
+['41' '122B1B046' 'CHAURE BHAVESH ABHIMAN' '40' np.float64(nan) '89%' '14'
+ np.float64(nan) '94%' '24' np.float64(nan) '54%' '14' np.float64(nan)
+ '94%' '23' np.float64(nan) '77%' '-' np.float64(nan) '-' '21'
+ np.float64(nan) '70%' '-' np.float64(nan) '-' '26' np.float64(nan) '90%'
+ '40' np.float64(nan) '89%' '-' np.float64(nan) '-' '-' np.float64(nan)
+ '-' '-' np.float64(nan) '-' '29' np.float64(nan) '65%' '-'
+ np.float64(nan) '-' '-' np.float64(nan) '-' '-' np.float64(nan) '-' '-'
+ np.float64(nan) '-' ' 73.75 % ' ' 91.53 % ' '77.26%']
+---- WORD ----
+
+Department: Computer Engineering       Academic Year: 2025- 2026                    Semester: I /II
+			                                                                                              Date: 26/9/2025
+
+
+
+To,
+
+Dear Sir,
+We are sorry to inform you that attendance of your ward Dhruv Borole  PRN No. 122B1B041 Year B.tech Div A is poor.
+
+1. Subject wise attendance up to 30/08/202 is as follows.
+
+
+
+If he fails to improve attendance and to satisfy to minimum criteria of 75% attendance in theory and practicalÆs conducted, by college, he shall not be eligible to appear for Final SA in Semester I / II Theory Examination.
+
+
+
+
+Class Teacher                         Academic Coordinator                                 Head of the Department   
+Mr. Ganesh Kadam                  Mr. Atul Pawar                                           Dr. Sonali Patil
+--- Table ---
+['\n', 'Pimpri Chinchwad Education TrustÆs\nPimpri Chinchwad College of Engineering', 'Record No.: ACAD/R/23']
+['\n', 'Pimpri Chinchwad Education TrustÆs\nPimpri Chinchwad College of Engineering', 'Revision: 01']
+['\n', 'Pimpri Chinchwad Education TrustÆs\nPimpri Chinchwad College of Engineering', 'Date: 28/08/2024']
+['Letter to Parents of Poor Performing Students', 'Letter to Parents of Poor Performing Students', 'Letter to Parents of Poor Performing Students', 'Letter to Parents of Poor Performing Students']
+--- Table ---
+['Sr. No', 'Subject ', 'Theory Attendance (%)', 'Practical Attendance (%)']
+['1', 'STQA', '0', '58']
+['2', 'Cloud computing', '73', '75']
+['3', 'Business Intelligence', '                    50', '']
+['4', 'NLP', '57', '']
+['5', 'IE', '40', '']
+['6', 'PBL -5', '\n', '54']
+['Average attendance (%)', 'Average attendance (%)', '52', '70']
+['Total Attendance (%)', 'Total Attendance (%)', '56.2', '56.2']

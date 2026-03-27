@@ -1,10 +1,19 @@
 "use client";
 
+export interface Subject {
+  name: string;
+  theory: string;
+  practical: string;
+}
+
 export interface Student {
   name: string;
   roll_no: string | number;
   class_name: string;
   attendance: number;
+  subjects?: Subject[];
+  overall_th?: string;
+  overall_pr?: string;
 }
 
 interface DefaulterTableProps {

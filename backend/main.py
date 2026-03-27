@@ -19,11 +19,21 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+from typing import List, Optional
+
+class Subject(BaseModel):
+    name: str
+    theory: str
+    practical: str
+
 class Student(BaseModel):
     name: str
     roll_no: str | int | float
     class_name: str
     attendance: float
+    subjects: List[Subject] = []
+    overall_th: str = ""
+    overall_pr: str = ""
 
 @app.post("/upload")
 async def upload_file(file: UploadFile = File(...)):
